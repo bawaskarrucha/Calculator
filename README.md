@@ -3,22 +3,22 @@
  </h4> A simple and user-friendly calculator application built using XML and Java/Kotlin for Android.</h4>
 
 <h2>📌 Features</h2>
-•Basic arithmetic operations (+, -, ×, ÷, %)
+• Basic arithmetic operations (+, -, ×, ÷, %)
 <br>
-•Clear button (C) to reset the calculations
+• Clear button (C) to reset the calculations
 <br>
-•Backspace button (⌫) to delete the last digit
+• Backspace button (⌫) to delete the last digit
 <br>
-•Decimal point support
+• Decimal point support
 <br>
-•Responsive UI with a modern design
+• Responsive UI with a modern design
 
 <h2>🔧 Technologies Used</h2>
-•Android Studio
+• Android Studio
 <br>
-•Java
+• Java
 <br>
-•XML for UI design
+• XML for UI design
 
 <h2>📷 Screenshots</h2>
 
@@ -27,8 +27,8 @@
 
 
 <h2>💡 How to Use</h2>
-1.Click on the numbers and operators to perform calculations.
+1. Click on the numbers and operators to perform calculations.
 <br>
-2.Press = to get the result.
+2. Press = to get the result.
 <br>
-3.Use C to clear everything and ⌫ to delete the last entered digit.
+3. Use C to clear everything and ⌫ to delete the last entered digit.
