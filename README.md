@@ -4,7 +4,9 @@
 
 <h2>📌 Features</h2>
 •Basic arithmetic operations (+, -, ×, ÷, %)
+<br>
 •Clear button (C) to reset the calculations
+<br>
 •Backspace button (⌫) to delete the last digit
 •Decimal point support
 •Responsive UI with a modern design
